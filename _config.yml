@@ -1,0 +1,90 @@
+title: Insurance Hub
+tagline: 'Protecting what matters most to you.'
+description: 'Get comprehensive and reliable insurance information, comparisons, and tips on all types of policies. Our experts are dedicated to helping you find the right coverage for your needs.'
+url: https://magical-web-organization.github.io/InsuranceHub/
+baseurl: ''
+permalink: ':categories/:title.html'
+
+
+collections_dir: data
+
+collections:
+  insurance:
+    name: Insurance
+    output: true
+    permalink: /:collection/:name.html
+  health-insurance:
+    name: Health Insurance
+    output: true
+    permalink: /:collection/:name.html
+  dental-insurance:
+    name: Dental Insurance
+    output: true
+    permalink: /:collection/:name.html
+  farming-insurance:
+    name: Farming Insurance
+    output: true
+    permalink: /:collection/:name.html
+  life-insurance:
+    name: Life Insurance
+    output: true
+    permalink: /:collection/:name.html
+  auto-insurance:
+    name: Auto Insurance
+    output: true
+    permalink: /:collection/:name.html
+  homeowners-insurance:
+    name: Homeowners Insurance
+    output: true
+    permalink: /:collection/:name.html
+  renters-insurance:
+    name: Renters Insurance
+    output: true
+    permalink: /:collection/:name.html
+  pet-insurance:
+    name: Pet Insurance
+    output: true
+    permalink: /:collection/:name.html
+  travel-insurance:
+    name: Travel Insurance
+    output: true
+    permalink: /:collection/:name.html
+  business-insurance:
+    name: Business Insurance
+    output: true
+    permalink: /:collection/:name.html
+  disability-insurance:
+    name: Disability Insurance
+    output: true
+    permalink: /:collection/:name.html
+  long-term-care-insurance:
+    name: Long-Term Care Insurance
+    output: true
+    permalink: /:collection/:name.html
+  liability-insurance:
+    name: Liability Insurance
+    output: true
+    permalink: /:collection/:name.html
+  flood-insurance:
+    name: Flood Insurance
+    output: true
+    permalink: /:collection/:name.html
+  earthquake-insurance:
+    name: Earthquake Insurance
+    output: true
+    permalink: /:collection/:name.html
+  workers-compensation-insurance:
+    name: Workers' Compensation Insurance
+    output: true
+    permalink: /:collection/:name.html
+  
+
+
+  
+# Custom vars
+google_analytics_id: G-13MDEXQK7Q
+
+
+# Gems
+plugins:
+  - jekyll-sitemap
