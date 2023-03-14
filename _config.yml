@@ -1,7 +1,7 @@
 title: Insurance Hub
 tagline: 'Protecting what matters most to you.'
 description: 'Get comprehensive and reliable insurance information, comparisons, and tips on all types of policies. Our experts are dedicated to helping you find the right coverage for your needs.'
-url: https://insurancehub.wiki/
+url: https://insurancehub.wiki
 baseurl: ''
 permalink: ':categories/:title.html'
 
