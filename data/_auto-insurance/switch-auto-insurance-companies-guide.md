@@ -2,7 +2,8 @@
 layout: post
 title: How to Switch Auto Insurance Companies
 description: Learn how to switch car insurance companies with ease. Our guide will help you navigate the process, including finding the right policy, canceling your current policy, and more.
-date: 2023-03-12 18:35:21 +0300last_modified_at: 2023-03-12 18:35:21 +0300
+date: 2023-03-12 18:35:21 +0300
+last_modified_at: 2023-03-12 18:35:21 +0300
 slug: switch-auto-insurance-companies-guide
 ---
 ## Introduction
