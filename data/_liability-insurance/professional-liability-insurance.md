@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Professional Liability Insurance"
+title: "Professional Liability Insurance: Protecting your business from negligence claims"
 description: "Learn about how professional liability insurance can protect your business from negligence claims and ensure a secure financial future."
 date: 2023-03-22 23:01:38 +0300
-last_modified_at: 2023-03-22 23:01:38 +0300
+last_modified_at: 2023-03-22 20:21:45 +0300
 slug: professional-liability-insurance
 original: "Professional liability insurance: protecting your business from negligence claims"
 ---
@@ -21,11 +21,11 @@ This type of insurance covers a range of damages, including compensatory damages
 
 Any business that provides professional services is susceptible to claims of negligence or error. Some examples include:
 
-- Accountants and financial advisors
-- Architects and engineers
-- Consultants and business coaches
-- Doctors and healthcare professionals
-- Lawyers and legal professionals
+* Accountants and financial advisors
+* Architects and engineers
+* Consultants and business coaches
+* Doctors and healthcare professionals
+* Lawyers and legal professionals
 
 While any business that provides professional services should consider professional liability insurance, it is especially important for those in high-risk industries. For example, doctors and healthcare professionals face a higher risk of being sued for malpractice than other professions.
 

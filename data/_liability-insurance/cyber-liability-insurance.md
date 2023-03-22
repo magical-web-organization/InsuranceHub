@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Cyber Liability Insurance"
+title: "Cyber Liability Insurance: Protecting your business from cyber attacks"
 description: "Learn how cyber liability insurance can help safeguard your business from the financial ramifications of a cyber attack."
 date: 2023-03-22 23:02:15 +0300
-last_modified_at: 2023-03-22 23:02:15 +0300
+last_modified_at: 2023-03-22 20:21:11 +0300
 slug: cyber-liability-insurance
 original: "Cyber liability insurance: protecting your business from cyber attacks"
 ---
@@ -15,11 +15,11 @@ Cyber liability insurance, also known as cyber risk insurance, is a type of insu
 
 The insurance policy provides coverage for a range of expenses related to a cyber attack, including but not limited to:
 
-- Notification expenses
-- Forensic investigation expenses
-- Legal fees
-- Crisis management expenses
-- Data restoration expenses
+* Notification expenses
+* Forensic investigation expenses
+* Legal fees
+* Crisis management expenses
+* Data restoration expenses
 
 ## Why is Cyber Liability Insurance Important?
 
@@ -37,9 +37,9 @@ While larger businesses may have more resources to invest in cybersecurity, they
 
 When choosing a cyber liability insurance policy, there are various factors to consider, including:
 
-- Coverage limits - ensure that the policy provides enough coverage to cover the potential expenses of a cyber attack
-- Responses and recovery - check what measures the policy offers in the event of a cyber attack to help your business recover more quickly
-- Business-specific needs - make sure the policy is tailored to your business's specific needs and risks
+* Coverage limits - ensure that the policy provides enough coverage to cover the potential expenses of a cyber attack
+* Responses and recovery - check what measures the policy offers in the event of a cyber attack to help your business recover more quickly
+* Business-specific needs - make sure the policy is tailored to your business's specific needs and risks
 
 It may also be helpful to consult with a professional insurance agent who specializes in cyber liability insurance to ensure you select the right policy for your business.
 

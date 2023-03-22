@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Liability Insurance for Landlords
+title: "Liability Insurance for Landlords: Protecting against tenant lawsuits"
 description: Liability insurance is an essential consideration for landlords. This article discusses the importance of liability insurance to protect against tenant lawsuits and provides tips for securing adequate coverage.
 date: 2023-03-22 23:04:14 +0300
-last_modified_at: 2023-03-22 20:05:52 +0300
+last_modified_at: 2023-03-22 20:18:36 +0300
 slug: liability-insurance-for-landlords
 original: "Liability insurance for landlords: protecting against tenant lawsuits"
 ---

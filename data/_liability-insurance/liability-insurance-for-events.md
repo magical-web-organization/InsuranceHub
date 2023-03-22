@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Liability Insurance for Events
+title: "Liability Insurance for Events: Protecting against accidents and injuries"
 description: Liability insurance is an essential addition to any event to protect against accidents and injuries. Read on to know why and how it works.
 date: 2023-03-22 23:04:33 +0300
-last_modified_at: 2023-03-22 23:04:33 +0300
+last_modified_at: 2023-03-22 20:19:11 +0300
 slug: liability-insurance-for-events
 original: "Liability insurance for events: protecting against accidents and injuries"
 ---

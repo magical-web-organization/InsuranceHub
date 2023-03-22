@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Directors and Officers Liability Insurance"
+title: "Directors and Officers Liability Insurance: Protecting company leadership"
 description: "Learn about the benefits of Directors and Officers Liability Insurance and how it protects businesses and their leadership from legal action."
 date: 2023-03-22 23:02:47 +0300
-last_modified_at: 2023-03-22 23:02:47 +0300
+last_modified_at: 2023-03-22 20:20:33 +0300
 slug: directors-and-officers-liability-insurance
 original: "Directors and officers liability insurance: protecting company leadership"
 ---

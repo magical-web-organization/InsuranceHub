@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Liability Insurance for Nonprofits
+title: "Liability Insurance for Nonprofits: Protecting volunteers and directors"
 description: Learn about the importance of liability insurance for nonprofits and how it protects volunteers and directors from any legal liabilities and financial risks.
 date: 2023-03-22 23:03:23 +0300
-last_modified_at: 2023-03-22 23:03:23 +0300
+last_modified_at: 2023-03-22 20:17:10 +0300
 slug: liability-insurance-for-nonprofits
 original: "Liability insurance for nonprofits: protecting volunteers and directors"
 ---
-As a nonprofit organization, you are dedicated to serving your community and making a positive impact on society. However, running a nonprofit is not without its challenges, including the risk of legal liabilities and financial risks. This is where liability insurance comes in handy. 
+As a nonprofit organization, you are dedicated to serving your community and making a positive impact on society. However, running a nonprofit is not without its challenges, including the risk of legal liabilities and financial risks. This is where liability insurance comes in handy.
 
 In this article, we will discuss the importance of liability insurance for nonprofits, how it protects volunteers and directors, and what types of coverage are available.
 

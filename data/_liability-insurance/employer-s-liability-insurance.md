@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Employer's Liability Insurance"
+title: "Employer's Liability Insurance: Protecting against workplace injury claims"
 description: "Learn about how employer's liability insurance can help protect your company from workplace injury claims and the financial repercussions that come with them."
 date: 2023-03-22 23:03:57 +0300
-last_modified_at: 2023-03-22 23:03:57 +0300
+last_modified_at: 2023-03-22 20:19:53 +0300
 slug: employer-s-liability-insurance
 original: "Employer's liability insurance: protecting against workplace injury claims"
 ---
