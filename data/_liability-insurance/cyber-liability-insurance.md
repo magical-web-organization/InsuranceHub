@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cyber Liability Insurance
+title: "Cyber Liability Insurance"
 description: "Learn how cyber liability insurance can help safeguard your business from the financial ramifications of a cyber attack."
 date: 2023-03-22 23:02:15 +0300
 last_modified_at: 2023-03-22 23:02:15 +0300

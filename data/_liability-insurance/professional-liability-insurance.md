@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Professional Liability Insurance
+title: "Professional Liability Insurance"
 description: "Learn about how professional liability insurance can protect your business from negligence claims and ensure a secure financial future."
 date: 2023-03-22 23:01:38 +0300
 last_modified_at: 2023-03-22 23:01:38 +0300
