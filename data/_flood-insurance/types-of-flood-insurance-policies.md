@@ -3,17 +3,15 @@ layout: post
 title: Types of Flood Insurance Policies
 description: "Know about the two types of flood insurance policies: The National Flood Insurance Program (NFIP) policies and private flood insurance. Read on to find out which may be better suited for you."
 date: 2023-03-23 18:15:27 +0300
-last_modified_at: 2023-03-23 18:15:27 +0300
+last_modified_at: 2023-03-23 17:36:39 +0300
 slug: types-of-flood-insurance-policies
 original: "Types of flood insurance policies: The National Flood Insurance Program (NFIP) policies and private flood insurance."
 ---
-# Types of Flood Insurance Policies: The National Flood Insurance Program (NFIP) policies and private flood insurance
-
 Floods are the most common natural disaster in the United States. They can happen anywhere and cause significant damage to homes and properties. Standard homeowners’ insurance policies do not cover damage caused by floods. Therefore, it is essential to obtain a flood insurance policy to protect your home and property from flood damage. There are two types of flood insurance policies available in the United States: The National Flood Insurance Program (NFIP) policies and private flood insurance policies.
 
 ## National Flood Insurance Program (NFIP) Policies
 
-The National Flood Insurance Program is run by the Federal Emergency Management Agency (FEMA). The NFIP policies are issued by the federal government and sold through licensed insurance agents. These policies are designed to provide flood insurance coverage for homeowners, renters, and business owners. 
+The National Flood Insurance Program is run by the Federal Emergency Management Agency (FEMA). The NFIP policies are issued by the federal government and sold through licensed insurance agents. These policies are designed to provide flood insurance coverage for homeowners, renters, and business owners.
 
 ### Coverage
 

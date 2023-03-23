@@ -3,12 +3,10 @@ layout: post
 title: Pre-Existing Conditions and Travel Insurance
 description: Learn how pre-existing conditions influence coverage in travel insurance policies and what options travelers have for securing coverage.
 date: 2023-03-23 20:01:53 +0300
-last_modified_at: 2023-03-23 20:01:53 +0300
+last_modified_at: 2023-03-23 17:34:56 +0300
 slug: pre-existing-conditions-and-travel-insurance
 original: "Pre-existing conditions and travel insurance: Understanding how pre-existing conditions impact coverage."
 ---
-# Pre-Existing Conditions and Travel Insurance: Understanding How Pre-Existing Conditions Impact Coverage
-
 When planning a trip, it's easy to get caught up in booking flights, making hotel reservations and planning out your itinerary. But as a wise traveler once said, it's better to be safe than sorry – and that's where travel insurance comes in. Travel insurance offers protection against unexpected events such as medical emergencies, trip cancellations and lost luggage.
 
 However, if you have a pre-existing medical condition, it's important to understand how this could impact your travel insurance coverage. In this article, we'll explain everything you need to know about pre-existing conditions and travel insurance.
