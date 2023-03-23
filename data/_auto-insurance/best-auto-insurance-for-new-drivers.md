@@ -5,7 +5,6 @@ description: Find the top-rated car insurance providers for new drivers based on
 date: 2023-03-12 11:00:00 +0300
 last_modified_at: 2023-03-12 11:00:00 +0300
 ---
-# The Best Auto Insurance Companies for New Drivers
 
 As a new driver, getting car insurance can be overwhelming. You need a policy that fits your needs and budget, but with so many options out there, it can be hard to know where to start. That's why we've researched and compiled a list of the best auto insurance companies for new drivers.
 
@@ -30,12 +29,12 @@ You want an insurance company that is easy to work with and provides good custom
 Based on our research, here are the top auto insurance companies for new drivers:
 
 | Company | Coverage | Cost | Customer Satisfaction |
-|---------|----------|------|-----------------------|
-| Geico   | Excellent | Good | Excellent             |
-| State Farm | Excellent | Good | Excellent           |
-| Progressive | Good | Good | Good                  |
-| Allstate | Good | Good | Good                     |
-| Nationwide | Good | Good | Good                    |
+| ------- | -------- | ---- | --------------------- |
+| Geico | Excellent | Good | Excellent |
+| State Farm | Excellent | Good | Excellent |
+| Progressive | Good | Good | Good |
+| Allstate | Good | Good | Good |
+| Nationwide | Good | Good | Good |
 
 ## Conclusion
 
