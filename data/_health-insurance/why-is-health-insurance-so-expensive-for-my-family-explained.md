@@ -1,7 +1,12 @@
 ---
-
-layout: posttitle: "Why Is Health Insurance So Expensive for My Family? Explained by an Expert"description: "Learn the reasons why health insurance can be expensive for families and what you can do to lower the costs. Read on to find out more."date: 2023-03-13 15:05:40 +0300last_modified_at: 2023-03-13 15:05:40 +0300slug: why-is-health-insurance-so-expensive-for-my-family-explained
+layout: post
+title: "Why Is Health Insurance So Expensive for My Family? Explained by an Expert"
+description: "Learn the reasons why health insurance can be expensive for families and what you can do to lower the costs. Read on to find out more."
+date: 2023-03-13 15:05:40 +0300
+last_modified_at: 2023-03-13 15:05:40 +0300
+slug: why-is-health-insurance-so-expensive-for-my-family-explained
 ---
+
 Health insurance is a critical expense for many families, but it can also be expensive. If you are wondering why your family's health insurance premiums are so high, there are several reasons that contribute to the cost. In this article, we will explore the factors that impact the cost of health insurance and what you can do to lower the costs.
 
 ## The Cost of Medical Care
